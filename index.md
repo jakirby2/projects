@@ -2,17 +2,10 @@
 
 Established mechanical engineer working to build a better world
 
+***
 
-### Markdown
+[![Board Gaming Table]("Board Gaming Table")](https://i.imgur.com/1iwRy5S.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
