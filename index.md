@@ -4,7 +4,7 @@ Established mechanical engineer working to build a better world
 
 ***
 
-![[Board Gaming Table]("Board Gaming Table")](https://i.imgur.com/1iwRy5S.jpg)
+![[Board Gaming Table]("Board Gaming Table")](https://i.imgur.com/lhNbL2s.jpg)
 
 
 - Bulleted
